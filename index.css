@@ -1,0 +1,27 @@
+
+
+        /* Basic CSS comment */
+        body {
+                font-family: Helvetica, Arial, sans-serif;
+                font-size: 30px;
+                line-height: 13;
+                color: indianred; 
+                background-color: #EDF2F4;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+        }
+
+        h3 {
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 30px;
+            line-height: 13;
+            color: green;
+            background-color: #EDF2F4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+
+
